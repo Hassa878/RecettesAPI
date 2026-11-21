@@ -1,0 +1,21 @@
+# 🍽️ RecettesAPI
+
+Application iOS développée en **Swift et SwiftUI**, permettant de découvrir des recettes de cuisine et d'enregistrer ses favoris.
+
+## 📱 Fonctionnalités
+- Récupération de recettes depuis une API.
+- Décodage des données JSON.
+- Affichage des recettes et de leurs détails.
+- Ajout et consultation des recettes favorites.
+- Sauvegarde locale des favoris avec SwiftData.
+
+## 🛠️ Technologies utilisées
+- Swift
+- SwiftUI
+- API REST et JSON
+- URLSession et async/await
+- Architecture MVVM
+- SwiftData
+
+## 🎯 Objectif du projet
+Mettre en pratique la récupération de données depuis une API, la gestion de l'affichage avec SwiftUI et la persistance des données avec SwiftData.
